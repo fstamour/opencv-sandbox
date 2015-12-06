@@ -1,0 +1,15 @@
+%YAML:1.0
+recu1:
+   threshold: 150
+   crop:
+      x: 360
+      y: 0
+      width: 390
+      height: 960
+   filler:
+      -
+         x: 0
+         y: 0
+      -
+         x: 389
+         y: 0
